@@ -1,0 +1,70 @@
+html {
+  background-color: lightgray;
+  font-family: 'Baloo Paaji 2', 'Montserrat','Open Sans', sans-serif;
+}
+
+body {
+    background-color: white;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 0 auto;
+    max-width: 70%;
+    padding: 0 50px 30px 50px;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
+
+h1{
+    font-size: 50px;
+    color: #008000;
+    text-shadow: 5px 3px 2px #C9C9C9;
+}
+
+h2{
+    font-size: 35px;
+    color: #008080;;
+}
+
+p{
+    font-size: 25px;
+}
+
+ul {
+    background-color: #F7F4F4;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navlinks{
+    float: left;
+    background-color: transparent;
+    text-decoration: none;
+    padding: 10px;
+    color: #364cb3;
+    font-weight: 700;
+    font-size: 20px;
+  }
+
+
+a:link {
+  color: #364cb3;
+}
+
+a:visited {
+  color: #364cb3;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: #3c4a85;
+}
